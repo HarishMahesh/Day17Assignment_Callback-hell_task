@@ -1,0 +1,20 @@
+body{
+    display : flex;
+    height : 100vh;
+    justify-content: center;
+     align-items: center;
+    background : #ffc10738;
+   
+  }
+  
+  .background{
+     background : url('https://4kwallpapers.com/images/wallpapers/indian-flag-independence-day-india-august-15th-tricolor-red-3440x1440-2224.png') ;
+      background-size :cover ;
+      background-position : center ;
+    
+  }
+  p{
+    font-size : 5vw;
+    font-weight : 900;
+    
+  }
